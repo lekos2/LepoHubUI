@@ -115,8 +115,8 @@ local t1 = {
 	crosshair2 = "rbxassetid://6035047409",
 	sun = "rbxassetid://7734068495",
 	pencil = "rbxassetid://7734022107",
-	trash = "rbxassetid://6022668923"
-	game = "rbxassetid://6034227081"
+	trash = "rbxassetid://6022668923",
+	game = "rbxassetid://6034227081",
 	misc = "rbxassetid://6034509993"
 }
 
