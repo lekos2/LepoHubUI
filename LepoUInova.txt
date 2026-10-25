@@ -107,7 +107,7 @@ local t1 = {
 	move = "rbxassetid://6034287594",
 	globe = "rbxassetid://6023426915",
 	settings = "rbxassetid://6031280882",
-	shield = "rbxassetid://6035078910",
+	shield = "rbxassetid://6035078889",
 	key = "rbxassetid://7733965118",
 	home = "rbxassetid://7733960981",
 	music = "rbxassetid://7734020554",
@@ -115,8 +115,8 @@ local t1 = {
 	crosshair2 = "rbxassetid://6035047409",
 	sun = "rbxassetid://7734068495",
 	pencil = "rbxassetid://7734022107",
-	trash = "rbxassetid://6022668923",
-	game = "rbxassetid://6034227081",
+	trash = "rbxassetid://6022668885",
+	game = "rbxassetid://6034227061",
 	misc = "rbxassetid://6034509993"
 }
 
