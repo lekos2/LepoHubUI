@@ -120,6 +120,8 @@ local t1 = {
 	misc = "rbxassetid://6034509993",
 	reward = "rbxassetid://6023426978",
 	coin = "rbxassetid://6034973115",
+	thunder = "rbxassetid://6034333271",
+	clothing = "rbxassetid://6035107931",
 	palette = "rbxassetid://6034316009"
 }
 
